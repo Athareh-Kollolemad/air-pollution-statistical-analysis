@@ -11,5 +11,4 @@ In addition, the repository includes an analysis of the temporal variability of 
 ## Methodology
 
 The analysis is inspired by and developed based on the methodology used in the following repository:
-
 https://github.com/hurst0415/Spatial-heterogeneity-of-air-pollution-statistics

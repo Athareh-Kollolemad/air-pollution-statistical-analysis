@@ -1,2 +1,2 @@
-# air-pollution-statistical-analysis
-This repository contains Python scripts for statistical analysis of NO2 and NO air pollution data.
+# Air Pollution Statistical Analysis
+This repository contains Python-based Jupyter notebooks for statistical analysis of NO<sub>2</sub> and NO air pollution data.
